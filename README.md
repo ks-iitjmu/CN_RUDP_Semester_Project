@@ -18,7 +18,7 @@ This project aims to build a decentralized, serverless multiplayer game engine b
 
 ## 🎮 Game Engine (Raylib P2P)
 
-![Video Demo](videos/Screencast From 2026-04-03 20-57-52.mp4)
+![Video Demo](https://github.com/ks-iitjmu/CN_RUDP_Semester_Project/blob/main/videos/demo.mp4)
 
 ### Compilation Command:
 ```sh
